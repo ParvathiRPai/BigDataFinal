@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="847801ef-1aca-4ac3-ab88-cf6b7797f56a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z3PlJ9nEoWwSFeyuXero4MUhPy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.kafka_producer_demo (1)">
+    <configuration name="kafka_producer_demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meetup-pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../untitled/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kafka_producer_demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kafka_producer_demo/kafka_producer_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka_producer_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meetup-pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kafka_producer_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kafka_producer_demo (1)" />
+        <item itemvalue="Python.kafka_producer_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="847801ef-1aca-4ac3-ab88-cf6b7797f56a" name="Default Changelist" comment="" />
+      <created>1584064954292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584064954292</updated>
+      <workItem from="1584064961298" duration="147000" />
+      <workItem from="1584065157846" duration="159000" />
+      <workItem from="1584065406344" duration="1733000" />
+      <workItem from="1584067281448" duration="117000" />
+      <workItem from="1584067400748" duration="63000" />
+      <workItem from="1584067466562" duration="392000" />
+      <workItem from="1584067979216" duration="3000" />
+      <workItem from="1584067996839" duration="1614000" />
+      <workItem from="1584069727846" duration="691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="595" y="96" key="#kafka_producer_demo_(1)" timestamp="1584068069548">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="595" y="96" key="#kafka_producer_demo_(1)/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584068069548" />
+    <state x="689" y="242" key="FileChooserDialogImpl" timestamp="1584068158642">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="689" y="242" key="FileChooserDialogImpl/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584068158642" />
+    <state width="819" height="242" key="GridCell.Tab.0.bottom" timestamp="1584070420419">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1358" height="242" key="GridCell.Tab.0.bottom/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584069340440" />
+    <state width="819" height="242" key="GridCell.Tab.0.bottom/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584070420419" />
+    <state width="1638" height="242" key="GridCell.Tab.0.bottom/1680.-273.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1584069706380" />
+    <state width="819" height="242" key="GridCell.Tab.0.center" timestamp="1584070420418">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1358" height="242" key="GridCell.Tab.0.center/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584069340439" />
+    <state width="819" height="242" key="GridCell.Tab.0.center/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584070420418" />
+    <state width="1638" height="242" key="GridCell.Tab.0.center/1680.-273.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1584069706379" />
+    <state width="819" height="242" key="GridCell.Tab.0.left" timestamp="1584070420417">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1358" height="242" key="GridCell.Tab.0.left/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584069340439" />
+    <state width="819" height="242" key="GridCell.Tab.0.left/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584070420417" />
+    <state width="1638" height="242" key="GridCell.Tab.0.left/1680.-273.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1584069706379" />
+    <state width="819" height="242" key="GridCell.Tab.0.right" timestamp="1584070420418">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state width="1358" height="242" key="GridCell.Tab.0.right/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584069340440" />
+    <state width="819" height="242" key="GridCell.Tab.0.right/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584070420418" />
+    <state width="1638" height="242" key="GridCell.Tab.0.right/1680.-273.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1584069706379" />
+    <state x="403" y="118" key="SettingsEditor" timestamp="1584070283044">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="403" y="118" key="SettingsEditor/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584070283044" />
+    <state x="494" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1584069731371">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="494" y="332" key="com.intellij.ide.util.TipDialog/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584065158533" />
+    <state x="494" y="333" key="com.intellij.ide.util.TipDialog/1680.-273.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1584069731371" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/meetup_pycharm$kafka_producer_demo__1_.coverage" NAME="kafka_producer_demo (1) Coverage Results" MODIFIED="1584070307195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kafka_producer_demo" />
+    <SUITE FILE_PATH="coverage/meetup_pycharm$kafka_producer_demo.coverage" NAME="kafka_producer_demo Coverage Results" MODIFIED="1584067701997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a4ab8a1-38cc-495f-97e0-d49ade6036a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z3byc3ULntuYIoETiWz0bk8a9G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="kafka_producer_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meetup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kafka_producer_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kafka_producer_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a4ab8a1-38cc-495f-97e0-d49ade6036a0" name="Default Changelist" comment="" />
+      <created>1584070979767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584070979767</updated>
+      <workItem from="1584070986243" duration="318000" />
+      <workItem from="1584071320563" duration="2478000" />
+      <workItem from="1584146304855" duration="3635000" />
+      <workItem from="1584462739337" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584071238046">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="304" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584071238046" />
+    <state width="1680" height="438" key="DebuggerActiveHint" timestamp="1584072204058">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state width="1680" height="438" key="DebuggerActiveHint/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072204058" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom" timestamp="1584462762142">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.0.bottom/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584257041423" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/1680.-273.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1584072903849" />
+    <state width="1638" height="315" key="GridCell.Tab.0.bottom/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072241156" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584255713187" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/1680.-273.1920.974/0.23.1680.1027@0.23.1680.1027" timestamp="1584462762142" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center" timestamp="1584462762141">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.0.center/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584257041422" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center/1680.-273.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1584072903848" />
+    <state width="1638" height="315" key="GridCell.Tab.0.center/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072241155" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584255713186" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center/1680.-273.1920.974/0.23.1680.1027@0.23.1680.1027" timestamp="1584462762141" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left" timestamp="1584462762140">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.0.left/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584257041421" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left/1680.-273.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1584072903847" />
+    <state width="1638" height="315" key="GridCell.Tab.0.left/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072241154" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584255713186" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left/1680.-273.1920.974/0.23.1680.1027@0.23.1680.1027" timestamp="1584462762140" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right" timestamp="1584462762142">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.0.right/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584257041423" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right/1680.-273.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1584072903849" />
+    <state width="1638" height="315" key="GridCell.Tab.0.right/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072241155" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584255713187" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right/1680.-273.1920.974/0.23.1680.1027@0.23.1680.1027" timestamp="1584462762142" />
+    <state width="1638" height="311" key="GridCell.Tab.1.bottom" timestamp="1584257041425">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.1.bottom/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584257041425" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072241159" />
+    <state width="1638" height="316" key="GridCell.Tab.1.bottom/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584071388381" />
+    <state width="1638" height="311" key="GridCell.Tab.1.center" timestamp="1584257041424">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.1.center/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584257041424" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072241157" />
+    <state width="1638" height="316" key="GridCell.Tab.1.center/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584071388380" />
+    <state width="1638" height="311" key="GridCell.Tab.1.left" timestamp="1584257041424">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.1.left/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584257041424" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072241157" />
+    <state width="1638" height="316" key="GridCell.Tab.1.left/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584071388379" />
+    <state width="1638" height="311" key="GridCell.Tab.1.right" timestamp="1584257041425">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.1.right/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584257041425" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right/1680.-273.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584072241158" />
+    <state width="1638" height="316" key="GridCell.Tab.1.right/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584071388380" />
+    <state x="341" y="139" key="SettingsEditor" timestamp="1584071183737">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="341" y="139" key="SettingsEditor/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584071183737" />
+    <state x="494" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1584462739720">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="494" y="331" key="com.intellij.ide.util.TipDialog/1680.-273.1920.1057/0.23.1680.944@0.23.1680.944" timestamp="1584146306266" />
+    <state x="494" y="334" key="com.intellij.ide.util.TipDialog/1680.-273.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1584071321355" />
+    <state x="494" y="335" key="com.intellij.ide.util.TipDialog/1680.-273.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1584070987991" />
+    <state x="494" y="358" key="com.intellij.ide.util.TipDialog/1680.-273.1920.974/0.23.1680.1027@0.23.1680.1027" timestamp="1584462739720" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Producer$kafka_producer_demo.coverage" NAME="kafka_producer_demo Coverage Results" MODIFIED="1584462748502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/meetup$kafka_producer_demo.coverage" NAME="kafka_producer_demo Coverage Results" MODIFIED="1584255713142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

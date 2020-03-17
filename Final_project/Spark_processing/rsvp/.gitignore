@@ -1,0 +1,6 @@
+.idea/libraries/*
+.metals/*
+project/project/target/*
+project/target/*
+target/*
+lib/*

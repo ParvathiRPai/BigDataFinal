@@ -12,7 +12,7 @@ object stream_processing_app {
     val mysql_host_name = "localhost"
     val mysql_port_no = "3306"
     val mysql_user_name = "root"
-    val mysql_password = "1qsczse3"
+    val mysql_password = "<>"
     val mysql_database_name = "meetup_rsvp_db"
     val mysql_driver_class = "com.mysql.jdbc.Driver"
     val mysql_table_name = "meetup_rsvp_message_agg_detail_table"
@@ -21,7 +21,7 @@ object stream_processing_app {
     val mongodb_host_name = "localhost"
     val mongodb_port_no = "27017"
     //    val mongodb_user_name="pava"
-    //    val mongodb_password="!Qsczse3"
+    //    val mongodb_password="<>"
     val mongodb_database_name = "meetuprsvpdb1"
     val mongodb_collection_name = "meetuprsvpcoll1"
 
